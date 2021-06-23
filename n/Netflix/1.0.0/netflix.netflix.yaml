@@ -1,0 +1,15 @@
+PackageIdentifier: ' netflix.netflix'
+PackageName: ' netflix'
+PackageVersion: 1.0
+Publisher: netflix
+License: MIT
+LicenseUrl: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee0ace97-0879-44d3-ab1e-dd50970dfd8e?P1=1624445494&P2=404&P3=2&P4=IiLVrn%2brJZI1l%2f93Y7wbXZNUMv99HIPCY9jJHVykpQB25b2pIkWkYbJHIzyRxk1N0H%2bgM6kP81INN1eGbsTe0w%3d%3d
+PackageUrl: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee0ace97-0879-44d3-ab1e-dd50970dfd8e?P1=1624445494&P2=404&P3=2&P4=IiLVrn%2brJZI1l%2f93Y7wbXZNUMv99HIPCY9jJHVykpQB25b2pIkWkYbJHIzyRxk1N0H%2bgM6kP81INN1eGbsTe0w%3d%3d
+ShortDescription: netflix
+ManifestType: singleton
+ManifestVersion: 1.0.0
+PackageLocale: en-US
+Installers:
+- Architecture: arm
+  InstallerUrl: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee0ace97-0879-44d3-ab1e-dd50970dfd8e?P1=1624445494&P2=404&P3=2&P4=IiLVrn%2brJZI1l%2f93Y7wbXZNUMv99HIPCY9jJHVykpQB25b2pIkWkYbJHIzyRxk1N0H%2bgM6kP81INN1eGbsTe0w%3d%3d
+  InstallerSha256: e365fbb92fcbcadc6bb31ac5ecf1ab7950f77dbf27faee69ebf5bd2977867e07
